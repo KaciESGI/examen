@@ -1,1 +1,1 @@
-## Contribution\n\nPour contribuer à ce projet, veuillez :\n- Créer une branche pour vos modifications. \n- Soumettre une pull request avec une description détaillée.\n- Une fois modifié, enregistrez le fichier et validez les changements. 
+## Contribution\n\nMerci de soumettre vos suggestions directement via une pull request.
